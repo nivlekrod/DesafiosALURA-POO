@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesafiosALURA-POO.iml" filepath="$PROJECT_DIR$/DesafiosALURA-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafiosPOO-01/DesafiosPOO-01.iml" filepath="$PROJECT_DIR$/DesafiosPOO-01/DesafiosPOO-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafiosPOO-02/DesafiosPOO-02.iml" filepath="$PROJECT_DIR$/DesafiosPOO-02/DesafiosPOO-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafiosPOO-03/DesafiosPOO-03.iml" filepath="$PROJECT_DIR$/DesafiosPOO-03/DesafiosPOO-03.iml" />
+    </modules>
+  </component>
+</project>
